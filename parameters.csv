@@ -1,3 +1,5 @@
 model_name,ccp_alpha,criterion,min_impurity_decrease,min_samples_split,Accuracy
 Random Forest_0,0.1,gini,0.0,2,1.0,150
 Decision Tree_0,0.1,gini,0.0,2,1.0,150
+Random Forest_1,0.1,gini,0.0,2,1.0,147
+Decision Tree_1,0.1,gini,0.0,2,1.0,147
