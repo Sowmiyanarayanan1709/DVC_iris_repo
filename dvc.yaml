@@ -1,0 +1,9 @@
+stages:
+  train:
+    cmd: python py_code.py
+    deps:
+      - py_code.py
+      - Iris.csv
+    outs:
+      - Random_Forest_model
+      - Decision_Tree_model
