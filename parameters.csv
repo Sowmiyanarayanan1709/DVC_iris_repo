@@ -7,3 +7,5 @@ Random Forest_2,0.1,gini,0.0,1,1.0,147
 Decision Tree_2,0.1,gini,0.0,1,1.0,147
 Random Forest_3,0.1,gini,0.0,10,1.0,144
 Decision Tree_3,0.1,gini,0.0,10,1.0,144
+Random Forest_4,0.1,gini,0.0,10,1.0,147
+Decision Tree_4,0.1,gini,0.0,10,1.0,147
